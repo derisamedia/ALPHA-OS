@@ -8,7 +8,7 @@ Alpha OS have a 2 version
 - [Alpha OS X NETDATA](https://github.com/derisamedia/alpha-os-X-NETDATA)
 - And Some Many features and update (see the releases)
 
-<details><summary>Preview Screenshoot</summary>
+<summary>Preview Screenshoot</summary>
 <p>
 
 ![image](https://raw.githubusercontent.com/derisamedia/ALPHA-OS/main/loginpage.png)
@@ -16,7 +16,6 @@ Alpha OS have a 2 version
 ![image](https://raw.githubusercontent.com/derisamedia/ALPHA-OS/main/home.png)
 
 </p>
-</details>
 
 # For Download,Check The Releases
  [Check The Releases](https://github.com/derisamedia/ALPHA-OS/releases)
