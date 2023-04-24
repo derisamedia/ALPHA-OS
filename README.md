@@ -20,6 +20,6 @@ Alpha OS have a 2 version
 # For Download,Check The Releases
  [Check The Releases](https://github.com/derisamedia/ALPHA-OS/releases)
  
-##Donation
+## Donation
 Please Donate me,put aside a little of your money to feed the local cats
 - [ Saweria ](https://saweria.co/derisamedia)
